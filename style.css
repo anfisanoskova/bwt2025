@@ -9,7 +9,7 @@
   font-style: normal;
 }
 html {
-    background-image: url("C:/Users/anfis/Documents/bwt2025/my site/back1.jpg");
+    background-image: url("./back1.jpg");
     background-size: cover;
     font-family: "DotGothic16", sans-serif;
     font-weight: 2000;
@@ -66,4 +66,5 @@ h4 {
 #sims {
     font-family: "DotGothic16", sans-serif;
     font-size: 14px;
+
 }
